@@ -8,7 +8,7 @@ Deliverable 2: CitiBike Tableau Visualizations
 
 [link to dashboard](https://public.tableau.com/app/profile/mark.george5727/viz/NYCCitiBike-ModuleChallenge15/NYCCitibikeResearchChallenge15?publish=yes)
 
-The Tableau .txbx workbook file is included in the GitHub challenge repository.  
+The Tableau .txbx workbook file and .csv source files are too large to include in the GitHub challenge repository.  
 
 
 Deliverable 3: Challenge Analysis

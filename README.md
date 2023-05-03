@@ -23,25 +23,25 @@ We also looked at details about when in a day there is the most use of this serv
 
 Results: 
 
-1. Checkout Times for Users.png
+![1  Checkout Times for Users](https://user-images.githubusercontent.com/119453505/236012227-5960ffa3-2c1b-48cf-8b7d-ba34346c1212.png)
 1.	This line graph is displaying the number of bikes and duration of time bikes were checked out by CitiBike customers.
 
-2. Checkout Times by Gender.png
+![2  Checkout Times by Gender](https://user-images.githubusercontent.com/119453505/236012331-4ea05e0d-906a-4f4d-b896-df20c470d4be.png)
 2.	This line graph is displaying the number of bikes and duration that people of different genders would have a bike checked out for.
 
-3. Breakdown by Gender.png
+![3  Breakdown by Gender](https://user-images.githubusercontent.com/119453505/236012369-7de4e64a-6439-410d-8fba-7a84e003e665.png)
 3.	This pie graph demonstrates the CitiBike customers based on their gender.
 
-4. Top Starting Location.png
+![4  Top Starting Location](https://user-images.githubusercontent.com/119453505/236012407-a28023ea-c20a-4a0b-b879-7af4a8df845d.png)
 4.	This is a symbol map that illustrates where bikes are being signed out from. The circles vary in size and colour based on the popularity of a given location to get a bike from. The larger and darker a circle, the more common it is for bikes to be used starting in those locations.
 
-5. Trips by Weekday by Hour.png
+![5  Trips by Weekday by Hour](https://user-images.githubusercontent.com/119453505/236012451-1af7fdc2-c5b0-4b71-8022-28966e689254.png)
 5.	This heat map shows days of the week and hours of the day, and the coloured blocks indicate when the busiest periods are. The darker the block, the more active those times are. 
 
-6. Trips by Gender.png
+![6  Trips by Gender](https://user-images.githubusercontent.com/119453505/236012479-274091a2-6488-4051-a599-0efcbc3b4482.png)
 6.	This heat map tells a similar story to the last one, illustrating when the most bikes are being used, however this goes one step further and differentiates the busiest times by the gender of the person using the bikes.
 
-7. Trips by Weekday.png
+![7  Trips by Weekday](https://user-images.githubusercontent.com/119453505/236012514-7728629d-7628-4209-b40d-f0441197ce1b.png)
 7.	This last heat map again compares people of different genders and which days they are most commonly using a CitiBike. The heat map also compares individuals who subscribe for the bike sharing service, and customers who use the bikes without a subscription. Again, the darker the block, the more active individuals of these genders and groups are.
 
 
